@@ -1,2 +1,0 @@
-References
-KernelLab reference library
