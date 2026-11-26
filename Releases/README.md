@@ -1,2 +1,0 @@
-Releases
-KernelLab release packages.
